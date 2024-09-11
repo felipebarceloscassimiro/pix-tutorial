@@ -2,16 +2,51 @@
 
 
 
-## Índice
+## 1. Visão Geral
+O PIX é uma solução de pagamento instantâneo desenvolvida pelo Banco Central do Brasil, que permite transferências de dinheiro em segundos, 24 horas por dia, 7 dias por semana. Sua implementação nas plataformas de pagamento pode melhorar a experiência do cliente, permitindo transações rápidas e seguras.
 
 
-## Visão Geral
 
 
-## O Que é Uma Chave PIX? 
+## 2. O Que é Uma Chave PIX? 
+Uma chave PIX é um "apelido" para sua conta bancária, que facilita transferências. Ao invés de digitar dados complicados como número de conta e agência, você só precisa compartilhar sua chave PIX, que pode ser seu CPF, e-mail, número de celular ou um código aleatório gerado pelo banco.
 
 
-## Como Configurar Sua Chave PIX
+
+
+## 3. Tipos de Chaves PIX
+Existem quatro tipos de chaves PIX:
+- **CPF ou CNPJ:** Associe seu CPF ou CNPJ à sua conta.
+- **Número de celular:** Use seu número de celular como chave.
+- **E-mail:** Vincule seu endereço de e-mail.
+- **Chave aleatória:** Um código gerado automaticamente, ideal se você não quiser compartilhar dados pessoais.
+
+
+
+
+## 4. Como Configurar Sua Chave PIX
+
+### 4.1. Pelo Aplicativo do Banco
+1. Acesse o aplicativo do seu banco.
+2. Procure pela opção **PIX** no menu principal.
+3. Selecione a opção **Registrar Chave PIX**.
+4. Escolha o tipo de chave (CPF, e-mail, celular, ou chave aleatória).
+5. Siga as instruções na tela para completar o registo.
+6. Pronto! Sua chave PIX está configurada e pronta para uso.
+
+### 4.2. Pelo Internet Banking
+1. Entre no site do seu banco e faça o login.
+2. Navegue até a área de **PIX**.
+3. Selecione **Cadastrar Chave PIX**.
+4. Escolha o tipo de chave que deseja usar.
+5. Finalize o registro conforme as instruções do banco.
+
+### 4.3. Pelo Caixa Eletrônico
+1. Insira seu cartão e acesse o menu de transações.
+2. Escolha a opção **pix**.
+3. Selecione **Cadastrar Chave pix**.
+4. Escolha o tipo de chave e conclua o cadastroo.
+
 
 
 ## Perguntas Frequentes
