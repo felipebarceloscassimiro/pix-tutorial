@@ -1,11 +1,40 @@
 # Como Configurar Sua Chave PIX
 
+## Índice
+
+- [Como Configurar Sua Chave PIX](#como-configurar-sua-chave-pix)
+  - [Índice](#índice)
+  - [1. Visão Geral](#1-visão-geral)
+  - [2. O Que é Uma Chave PIX?](#2-o-que-é-uma-chave-pix)
+  - [3. Tipos de Chaves PIX](#3-tipos-de-chaves-pix)
+  - [4. Como Configurar Sua Chave PIX](#4-como-configurar-sua-chave-pix)
+    - [4.1. Pelo Aplicativo do Banco](#41-pelo-aplicativo-do-banco)
+    - [4.2. Pelo Internet Banking](#42-pelo-internet-banking)
+    - [4.3. Pelo Caixa Eletrônico](#43-pelo-caixa-eletrônico)
+  - [5. Configurando Notificações](#5-configurando-notificações)
+  - [6. Acessibilidade](#6-acessibilidade)
+  - [7. Segurança e Privacidade](#7-segurança-e-privacidade)
+  - [8. Perguntas Frequentes](#8-perguntas-frequentes)
+    - [8.1. Posso ter mais de uma chave PIX?](#81-posso-ter-mais-de-uma-chave-pix)
+    - [8.2. O que acontece se eu perder minha chave?](#82-o-que-acontece-se-eu-perder-minha-chave)
+    - [8.3. O que acontece se eu perder meu celular?](#83-o-que-acontece-se-eu-perder-meu-celular)
+    - [8.4. É seguro usar o PIX?](#84-é-seguro-usar-o-pix)
+  - [Links Úteis](#links-úteis)
+
+
 
 
 ## 1. Visão Geral
 O PIX é uma solução de pagamento instantâneo desenvolvida pelo Banco Central do Brasil, que permite transferências de dinheiro em segundos, 24 horas por dia, 7 dias por semana. Sua implementação nas plataformas de pagamento pode melhorar a experiência do cliente, permitindo transações rápidas e seguras.
 
+
+<div style="text-align: center;">
+    <img src="../Imagens/pix.png" width="400" height="300">
+</div>
+
+
 Para usar o PIX, você precisa registrar uma chave PIX. Esse documento vai te ajudar a entender como fazer isso de maneira simples.
+
 
 
 
@@ -106,7 +135,7 @@ Sim, o PIX é um método seguro. O Banco Central garante a proteção dos dados 
 
 
 ## Links Úteis
-- [Documentação Oficial do Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix)
+- [Documentação Oficial do PIX](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 - [Google Play](https://play.google.com/store/apps)
 - [App Store](https://www.apple.com/br/app-store/)
 
