@@ -56,10 +56,20 @@ Para garantir que você esteja sempre atualizado sobre o status de suas transaç
 - **Falha de Pagamento:** Você será notificado em caso de falha na transação.
 - **Cancelamento de Pagamento:** Você será informado se o pagamento for cancelado.
 
+Essas notificações podem ser configuradas através dos seguintes métodos:
+| Método de Notificação | Descrição |
+|-----------------------|-----------|
+| E-mail                 | Você recebe um e-mail com o status da transação. |
+| SMS                    | Você recebe um SMS com a atualização da transação. |
+| Push Notification       | Enviado diretamente ao seu dispositivo móvel. |
 
 
 ## 6. Acessibilidade
 Todas as etapas podem ser feitas por diferentes canais de atendimento, como aplicativos, internet banking  e caixas eletrônicos, garantindo que pessoas com vários níveis de conhecimento em tecnologia possam configurar suas chaves PIX de forma fácil e rápida.
+
+Além disso, as notificações do PIX são acessíveis a todos os usuários, independentemente de suas necessidades:
+- **Texto legível:** As notificações são projetadas para serem claras e legíveis em todos os dispositivos.
+- **Notificações audíveis:** Se você usa um leitor de tela, as notificações são compatíveis e podem ser lidas em voz alta, facilitando o acompanhamento de suas transações.
 
 
 
