@@ -29,7 +29,7 @@ Existem quatro tipos de chaves PIX:
 ## 4. Como Configurar Sua Chave PIX
 
 ### 4.1. Pelo Aplicativo do Banco
-1. Acesse o aplicativo do seu banco.
+1. Acesse o aplicativo do banco.
 2. Procure pela opção **PIX** no menu principal.
 3. Selecione a opção **Registrar Chave PIX**.
 4. Escolha o tipo de chave (CPF, e-mail, celular, ou chave aleatória).
@@ -37,7 +37,7 @@ Existem quatro tipos de chaves PIX:
 6. Pronto! Sua chave PIX está configurada e pronta para uso.
 
 ### 4.2. Pelo Internet Banking
-1. Entre no site do seu banco e faça o login.
+1. Entre no site do banco e faça o login.
 2. Navegue até a área de **PIX**.
 3. Selecione **Cadastrar Chave PIX**.
 4. Escolha o tipo de chave que deseja usar.
@@ -48,6 +48,8 @@ Existem quatro tipos de chaves PIX:
 2. Escolha a opção **PIX**.
 3. Selecione **Cadastrar Chave PIX**.
 4. Escolha o tipo de chave e conclua o cadastro.
+
+
 
 
 ## 5. Configurando Notificações
@@ -64,6 +66,9 @@ Essas notificações podem ser configuradas através dos seguintes métodos:
 | Push Notification       | Enviado diretamente ao seu dispositivo móvel. |
 
 
+
+
+
 ## 6. Acessibilidade
 Todas as etapas podem ser feitas por diferentes canais de atendimento, como aplicativos, internet banking  e caixas eletrônicos, garantindo que pessoas com vários níveis de conhecimento em tecnologia possam configurar suas chaves PIX de forma fácil e rápida.
 
@@ -74,4 +79,41 @@ Além disso, as notificações do PIX são acessíveis a todos os usuários, ind
 
 
 
-## Perguntas Frequentes
+
+## 7. Segurança e Privacidade
+A segurança dos seus dados é uma prioridade ao configurar notificações PIX. Aqui estão alguns pontos importantes:
+- **Criptografia de Dados:** Todas as suas transações são protegidas com criptografia, garantindo a segurança dos dados transmitidos.
+- **Autenticação de Dois Fatores:** Sempre que possível, ative a autenticação de dois fatores para proteger o acesso à sua conta.
+- **Privacidade:** Seus dados pessoais são protegidos e não são compartilhados com terceiros sem o seu consentimento.
+
+
+
+
+## 8. Perguntas Frequentes
+
+### 8.1. Posso ter mais de uma chave PIX?
+Sim! Você pode cadastrar até cinco chaves diferentes por conta bancária.
+
+### 8.2. O que acontece se eu perder minha chave?
+Se você perder o acesso ao seu e-mail ou número de celular usado como chave, pode acessar o banco para remover ou alterar a chave a qualquer momento.
+
+### 8.3. O que acontece se eu perder meu celular?
+Se você perder seu celular, pode acessar sua conta através de outro dispositivo e solicitar a remoção da chave PIX registrada.
+
+### 8.4. É seguro usar o PIX?
+Sim, o PIX é um método seguro. O Banco Central garante a proteção dos dados e das transações feitas pelo PIX.
+
+
+
+## Links Úteis
+- [Documentação Oficial do Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix)
+- [Google Play](https://play.google.com/store/apps)
+- [App Store](https://www.apple.com/br/app-store/)
+
+
+
+
+
+
+
+
